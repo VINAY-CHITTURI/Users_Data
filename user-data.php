@@ -2,7 +2,7 @@
 /*
 *Plugin Name: Users Data
 *Description: Simple wordpress plugin to show Users data
-*Author: Roronoa
+*Author: Vinay
 *Version: 1.0.0
 *License: GPLv2 or later
 *Text Domain: trail-plugin
